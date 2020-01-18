@@ -1,5 +1,5 @@
 {
-  "name": "front",
+  "name": "HoraireMetro",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
-    "vue": "^2.6.10"
+    "leaflet": "^1.6.0",
+    "vue": "^2.6.10",
+    "vue2-leaflet": "^2.4.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
@@ -18,6 +20,9 @@
     "babel-eslint": "^10.0.3",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "pre-commit": "^1.2.2",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
@@ -29,7 +34,9 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {},
+    "rules": {
+      "no-console": "off"
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }

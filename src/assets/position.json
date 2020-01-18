@@ -1,0 +1,2420 @@
+{
+  "1": {
+    "name": "Métro 1",
+    "stations": [
+      {
+        "name": "Chateau de Vincennes",
+        "slug": "chateau+de+vincennes",
+        "lat": "48.8448272",
+        "lon": "2.436987"
+      },
+      {
+        "name": "Berault",
+        "slug": "berault",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Saint-Mande",
+        "slug": "saint+mande",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Porte de Vincennes",
+        "slug": "porte+de+vincennes",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Nation",
+        "slug": "nation",
+        "lat": "48.848012",
+        "lon": "2.3964702"
+      },
+      {
+        "name": "Reuilly-Diderot",
+        "slug": "reuilly+diderot",
+        "lat": "48.84621",
+        "lon": "2.3769156"
+      },
+      {
+        "name": "Gare de Lyon",
+        "slug": "gare+de+lyon",
+        "lat": "48.8466834",
+        "lon": "2.3656701"
+      },
+      {
+        "name": "Bastille",
+        "slug": "bastille",
+        "lat": "48.8467262",
+        "lon": "2.3657195"
+      },
+      {
+        "name": "Saint-Paul (Le Marais)",
+        "slug": "saint+paul+(le+marais)",
+        "lat": "48.8537872",
+        "lon": "2.3565905"
+      },
+      {
+        "name": "Hotel de Ville",
+        "slug": "hotel+de+ville",
+        "lat": "48.8537872",
+        "lon": "2.3565905"
+      },
+      {
+        "name": "Chatelet",
+        "slug": "chatelet",
+        "lat": "48.8587841",
+        "lon": "2.3406833"
+      },
+      {
+        "name": "Louvre-Rivoli",
+        "slug": "louvre+rivoli",
+        "lat": "48.8623522",
+        "lon": "2.3386311"
+      },
+      {
+        "name": "Palais-Royal (Musee du Louvre)",
+        "slug": "palais+royal+(musee+du+louvre)",
+        "lat": "48.8655192",
+        "lon": "2.3345323"
+      },
+      {
+        "name": "Tuileries",
+        "slug": "tuileries",
+        "lat": "48.8655192",
+        "lon": "2.3345323"
+      },
+      {
+        "name": "Concorde",
+        "slug": "concorde",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Champs-Elysees-Clemenceau",
+        "slug": "champs+elysees+clemenceau",
+        "lat": "48.8630949",
+        "lon": "2.3202615"
+      },
+      {
+        "name": "Franklin-Roosevelt",
+        "slug": "franklin+roosevelt",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "George V",
+        "slug": "george+v",
+        "lat": "48.8728671",
+        "lon": "2.2945454"
+      },
+      {
+        "name": "Charles de Gaulle-Etoile",
+        "slug": "charles+de+gaulle+etoile",
+        "lat": "48.8733997",
+        "lon": "2.2966401"
+      },
+      {
+        "name": "Argentine",
+        "slug": "argentine",
+        "lat": "48.8745533",
+        "lon": "2.2921157"
+      },
+      {
+        "name": "Porte Maillot",
+        "slug": "porte+maillot",
+        "lat": "48.8774883",
+        "lon": "2.2834644"
+      },
+      {
+        "name": "Les Sablons (Jardin d'acclimatation)",
+        "slug": "les+sablons+(jardin+d'acclimatation)",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Pont de Neuilly",
+        "slug": "pont+de+neuilly",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Esplanade de la Defense",
+        "slug": "esplanade+de+la+defense",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "La Defense (Grande Arche)",
+        "slug": "la+defense+(grande+arche)",
+        "lat": false,
+        "lon": false
+      }
+    ]
+  },
+  "2": {
+    "name": "Métro 2",
+    "stations": [
+      {
+        "name": "Nation",
+        "slug": "nation",
+        "lat": "48.848012",
+        "lon": "2.3964702"
+      },
+      {
+        "name": "Avron",
+        "slug": "avron",
+        "lat": "48.848012",
+        "lon": "2.3964702"
+      },
+      {
+        "name": "Alexandre-Dumas",
+        "slug": "alexandre+dumas",
+        "lat": "48.8475444",
+        "lon": "2.3885543"
+      },
+      {
+        "name": "Philippe Auguste",
+        "slug": "philippe+auguste",
+        "lat": "48.8475444",
+        "lon": "2.3885543"
+      },
+      {
+        "name": "Pere-Lachaise",
+        "slug": "pere+lachaise",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Menilmontant",
+        "slug": "menilmontant",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Couronnes",
+        "slug": "couronnes",
+        "lat": "48.8671222",
+        "lon": "2.36488"
+      },
+      {
+        "name": "Belleville",
+        "slug": "belleville",
+        "lat": "48.8689436",
+        "lon": "2.3802717"
+      },
+      {
+        "name": "Colonel Fabien",
+        "slug": "colonel+fabien",
+        "lat": "48.8783886",
+        "lon": "2.3703176"
+      },
+      {
+        "name": "Jaures",
+        "slug": "jaures",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "Stalingrad",
+        "slug": "stalingrad",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "La Chapelle",
+        "slug": "la+chapelle",
+        "lat": "48.8783886",
+        "lon": "2.3703176"
+      },
+      {
+        "name": "Barbes-Rochechouart",
+        "slug": "barbes+rochechouart",
+        "lat": "48.8816428",
+        "lon": "2.3478709"
+      },
+      {
+        "name": "Anvers",
+        "slug": "anvers",
+        "lat": "48.8777368",
+        "lon": "2.3382106"
+      },
+      {
+        "name": "Pigalle",
+        "slug": "pigalle",
+        "lat": "48.8822978",
+        "lon": "2.3371797"
+      },
+      {
+        "name": "Blanche",
+        "slug": "blanche",
+        "lat": "48.8852572",
+        "lon": "2.3265212"
+      },
+      {
+        "name": "Place de Clichy",
+        "slug": "place+de+clichy",
+        "lat": "48.8852572",
+        "lon": "2.3265212"
+      },
+      {
+        "name": "Rome",
+        "slug": "rome",
+        "lat": "48.8878982",
+        "lon": "2.3248167"
+      },
+      {
+        "name": "Villiers",
+        "slug": "villiers",
+        "lat": "48.8906026",
+        "lon": "2.3201146"
+      },
+      {
+        "name": "Monceau",
+        "slug": "monceau",
+        "lat": "48.8797634",
+        "lon": "2.309103"
+      },
+      {
+        "name": "Courcelles",
+        "slug": "courcelles",
+        "lat": "48.885965",
+        "lon": "2.3262106"
+      },
+      {
+        "name": "Ternes",
+        "slug": "ternes",
+        "lat": "48.8774712",
+        "lon": "2.2833466"
+      },
+      {
+        "name": "Charles de Gaulle-Etoile",
+        "slug": "charles+de+gaulle+etoile",
+        "lat": "48.8733997",
+        "lon": "2.2966401"
+      },
+      {
+        "name": "Victor Hugo",
+        "slug": "victor+hugo",
+        "lat": "48.8906026",
+        "lon": "2.3201146"
+      },
+      {
+        "name": "Porte Dauphine (Marechal de Lattre de Tassigny)",
+        "slug": "porte+dauphine+(marechal+de+lattre+de+tassigny)",
+        "lat": "48.8777957",
+        "lon": "2.2826643"
+      }
+    ]
+  },
+  "3": {
+    "name": "Métro 3",
+    "stations": [
+      {
+        "name": "Gallieni (Parc de Bagnolet)",
+        "slug": "gallieni+(parc+de+bagnolet)",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Porte de Bagnolet",
+        "slug": "porte+de+bagnolet",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Gambetta",
+        "slug": "gambetta",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Pere-Lachaise",
+        "slug": "pere+lachaise",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Rue Saint-Maur",
+        "slug": "rue+saint+maur",
+        "lat": "48.8671222",
+        "lon": "2.36488"
+      },
+      {
+        "name": "Parmentier",
+        "slug": "parmentier",
+        "lat": "48.8675072",
+        "lon": "2.3643588"
+      },
+      {
+        "name": "Republique",
+        "slug": "republique",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Temple",
+        "slug": "temple",
+        "lat": "48.8655497",
+        "lon": "2.3565737"
+      },
+      {
+        "name": "Arts-et-Metiers",
+        "slug": "arts+et+metiers",
+        "lat": "48.8655497",
+        "lon": "2.3565737"
+      },
+      {
+        "name": "Reaumur-Sebastopol",
+        "slug": "reaumur+sebastopol",
+        "lat": "48.857757",
+        "lon": "2.3449507"
+      },
+      {
+        "name": "Sentier",
+        "slug": "sentier",
+        "lat": "48.8606705",
+        "lon": "2.3459094"
+      },
+      {
+        "name": "Bourse",
+        "slug": "bourse",
+        "lat": "48.8655192",
+        "lon": "2.3345323"
+      },
+      {
+        "name": "Quatre Septembre",
+        "slug": "quatre+septembre",
+        "lat": "48.8655192",
+        "lon": "2.3345323"
+      },
+      {
+        "name": "Opera",
+        "slug": "opera",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Havre-Caumartin",
+        "slug": "havre+caumartin",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Saint-Lazare",
+        "slug": "saint+lazare",
+        "lat": "48.8852572",
+        "lon": "2.3265212"
+      },
+      {
+        "name": "Europe",
+        "slug": "europe",
+        "lat": "48.8849913",
+        "lon": "2.3266963"
+      },
+      {
+        "name": "Villiers",
+        "slug": "villiers",
+        "lat": "48.8906026",
+        "lon": "2.3201146"
+      },
+      {
+        "name": "Malesherbes",
+        "slug": "malesherbes",
+        "lat": "48.8964633",
+        "lon": "2.310358"
+      },
+      {
+        "name": "Wagram",
+        "slug": "wagram",
+        "lat": "48.8740934",
+        "lon": "2.2959642"
+      },
+      {
+        "name": "Pereire",
+        "slug": "pereire",
+        "lat": "48.8731161",
+        "lon": "2.2958555"
+      },
+      {
+        "name": "Porte de Champerret",
+        "slug": "porte+de+champerret",
+        "lat": "48.890833",
+        "lon": "2.2861476"
+      },
+      {
+        "name": "Louise Michel",
+        "slug": "louise+michel",
+        "lat": "48.9051446",
+        "lon": "2.4492042"
+      },
+      {
+        "name": "Anatole-France",
+        "slug": "anatole+france",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Pont de Levallois-Becon",
+        "slug": "pont+de+levallois+becon",
+        "lat": false,
+        "lon": false
+      }
+    ]
+  },
+  "4": {
+    "name": "Métro 4",
+    "stations": [
+      {
+        "name": "Porte de Clignancourt",
+        "slug": "porte+de+clignancourt",
+        "lat": "48.8836538",
+        "lon": "2.3489737"
+      },
+      {
+        "name": "Simplon",
+        "slug": "simplon",
+        "lat": "48.8923489",
+        "lon": "2.3452711"
+      },
+      {
+        "name": "Marcadet-Poissonniers",
+        "slug": "marcadet+poissonniers",
+        "lat": "48.8925257",
+        "lon": "2.3442797"
+      },
+      {
+        "name": "Chateau Rouge",
+        "slug": "chateau+rouge",
+        "lat": "48.8925257",
+        "lon": "2.3442797"
+      },
+      {
+        "name": "Barbes-Rochechouart",
+        "slug": "barbes+rochechouart",
+        "lat": "48.8816428",
+        "lon": "2.3478709"
+      },
+      {
+        "name": "Gare du Nord",
+        "slug": "gare+du+nord",
+        "lat": "48.8798509",
+        "lon": "2.3554202"
+      },
+      {
+        "name": "Gare de l'Est (Verdun)",
+        "slug": "gare+de+l'est+(verdun)",
+        "lat": "48.8767083",
+        "lon": "2.3556513"
+      },
+      {
+        "name": "Chateau d'Eau",
+        "slug": "chateau+d'eau",
+        "lat": "48.8764702",
+        "lon": "2.3560557"
+      },
+      {
+        "name": "Strasbourg-Saint-Denis",
+        "slug": "strasbourg+saint+denis",
+        "lat": "48.8764702",
+        "lon": "2.3560557"
+      },
+      {
+        "name": "Reaumur-Sebastopol",
+        "slug": "reaumur+sebastopol",
+        "lat": "48.857757",
+        "lon": "2.3449507"
+      },
+      {
+        "name": "Etienne Marcel",
+        "slug": "etienne+marcel",
+        "lat": "48.8587841",
+        "lon": "2.3406833"
+      },
+      {
+        "name": "Les Halles",
+        "slug": "les+halles",
+        "lat": "48.857757",
+        "lon": "2.3449507"
+      },
+      {
+        "name": "Chatelet",
+        "slug": "chatelet",
+        "lat": "48.8587841",
+        "lon": "2.3406833"
+      },
+      {
+        "name": "Cite",
+        "slug": "cite",
+        "lat": "48.8587841",
+        "lon": "2.3406833"
+      },
+      {
+        "name": "Saint-Michel",
+        "slug": "saint+michel",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Odeon",
+        "slug": "odeon",
+        "lat": "48.8587841",
+        "lon": "2.3406833"
+      },
+      {
+        "name": "Saint-Germain des Pres",
+        "slug": "saint+germain+des+pres",
+        "lat": "48.8623522",
+        "lon": "2.3386311"
+      },
+      {
+        "name": "Saint-Sulpice",
+        "slug": "saint+sulpice",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Saint-Placide",
+        "slug": "saint+placide",
+        "lat": "48.8555227",
+        "lon": "2.3256982"
+      },
+      {
+        "name": "Montparnasse-Bienvenue",
+        "slug": "montparnasse+bienvenue",
+        "lat": "48.8437765",
+        "lon": "2.3241971"
+      },
+      {
+        "name": "Vavin",
+        "slug": "vavin",
+        "lat": "48.8425406",
+        "lon": "2.320891"
+      },
+      {
+        "name": "Raspail",
+        "slug": "raspail",
+        "lat": "48.8425406",
+        "lon": "2.320891"
+      },
+      {
+        "name": "Denfert-Rochereau",
+        "slug": "denfert+rochereau",
+        "lat": "48.842365",
+        "lon": "2.3209085"
+      },
+      {
+        "name": "Mouton-Duvernet",
+        "slug": "mouton+duvernet",
+        "lat": "48.8433248",
+        "lon": "2.3205753"
+      },
+      {
+        "name": "Alesia",
+        "slug": "alesia",
+        "lat": "48.842365",
+        "lon": "2.3209085"
+      },
+      {
+        "name": "Porte d'Orleans (General Leclerc)",
+        "slug": "porte+d'orleans+(general+leclerc)",
+        "lat": "48.842365",
+        "lon": "2.3209085"
+      },
+      {
+        "name": "Mairie de Montrouge",
+        "slug": "mairie+de+montrouge",
+        "lat": "48.8317799",
+        "lon": "2.3140252"
+      }
+    ]
+  },
+  "5": {
+    "name": "Métro 5",
+    "stations": [
+      {
+        "name": "Bobigny-Pablo-Picasso",
+        "slug": "bobigny+pablo+picasso",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Bobigny-Pantin (Raymond Queneau)",
+        "slug": "bobigny+pantin+(raymond+queneau)",
+        "lat": "48.9001036",
+        "lon": "2.4438143"
+      },
+      {
+        "name": "Eglise de Pantin",
+        "slug": "eglise+de+pantin",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Hoche",
+        "slug": "hoche",
+        "lat": "48.8740934",
+        "lon": "2.2959642"
+      },
+      {
+        "name": "Porte de Pantin",
+        "slug": "porte+de+pantin",
+        "lat": "48.8783886",
+        "lon": "2.3703176"
+      },
+      {
+        "name": "Ourcq",
+        "slug": "ourcq",
+        "lat": "48.8909613",
+        "lon": "2.4013802"
+      },
+      {
+        "name": "Laumiere",
+        "slug": "laumiere",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "Jaures",
+        "slug": "jaures",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "Stalingrad",
+        "slug": "stalingrad",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "Gare du Nord",
+        "slug": "gare+du+nord",
+        "lat": "48.8798509",
+        "lon": "2.3554202"
+      },
+      {
+        "name": "Gare de l'Est (Verdun)",
+        "slug": "gare+de+l'est+(verdun)",
+        "lat": "48.8767083",
+        "lon": "2.3556513"
+      },
+      {
+        "name": "Jacques-Bonsergent",
+        "slug": "jacques+bonsergent",
+        "lat": "48.8672214",
+        "lon": "2.3638561"
+      },
+      {
+        "name": "Republique",
+        "slug": "republique",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Oberkampf",
+        "slug": "oberkampf",
+        "lat": "48.8672214",
+        "lon": "2.3638561"
+      },
+      {
+        "name": "Richard-Lenoir",
+        "slug": "richard+lenoir",
+        "lat": "48.8675072",
+        "lon": "2.3643588"
+      },
+      {
+        "name": "Breguet-Sabin",
+        "slug": "breguet+sabin",
+        "lat": "48.8467262",
+        "lon": "2.3657195"
+      },
+      {
+        "name": "Bastille",
+        "slug": "bastille",
+        "lat": "48.8467262",
+        "lon": "2.3657195"
+      },
+      {
+        "name": "Quai de la Rapee",
+        "slug": "quai+de+la+rapee",
+        "lat": "48.8466834",
+        "lon": "2.3656701"
+      },
+      {
+        "name": "Gare d'Austerlitz",
+        "slug": "gare+d'austerlitz",
+        "lat": "48.8467262",
+        "lon": "2.3657195"
+      },
+      {
+        "name": "Saint-Marcel",
+        "slug": "saint+marcel",
+        "lat": "48.80383965",
+        "lon": "2.3480848851133778"
+      },
+      {
+        "name": "Campo-Formio",
+        "slug": "campo+formio",
+        "lat": "48.8351096",
+        "lon": "2.3686207"
+      },
+      {
+        "name": "Place d'Italie",
+        "slug": "place+d'italie",
+        "lat": "48.8319145",
+        "lon": "2.3590224"
+      }
+    ]
+  },
+  "6": {
+    "name": "Métro 6",
+    "stations": [
+      {
+        "name": "Nation",
+        "slug": "nation",
+        "lat": "48.848012",
+        "lon": "2.3964702"
+      },
+      {
+        "name": "Picpus",
+        "slug": "picpus",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Bel-Air",
+        "slug": "bel+air",
+        "lat": "48.8468391",
+        "lon": "2.4089025"
+      },
+      {
+        "name": "Daumesnil (Felix Eboue)",
+        "slug": "daumesnil+(felix+eboue)",
+        "lat": "48.8454672",
+        "lon": "2.3955563"
+      },
+      {
+        "name": "Dugommier",
+        "slug": "dugommier",
+        "lat": "48.8390472",
+        "lon": "2.3896692"
+      },
+      {
+        "name": "Bercy",
+        "slug": "bercy",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Quai de la Gare",
+        "slug": "quai+de+la+gare",
+        "lat": "48.8310658",
+        "lon": "2.379549"
+      },
+      {
+        "name": "Chevaleret",
+        "slug": "chevaleret",
+        "lat": "48.8414728",
+        "lon": "2.363267"
+      },
+      {
+        "name": "Nationale",
+        "slug": "nationale",
+        "lat": "48.833206149999995",
+        "lon": "2.362850446462329"
+      },
+      {
+        "name": "Place d'Italie",
+        "slug": "place+d'italie",
+        "lat": "48.8319145",
+        "lon": "2.3590224"
+      },
+      {
+        "name": "Corvisart",
+        "slug": "corvisart",
+        "lat": "48.8319145",
+        "lon": "2.3590224"
+      },
+      {
+        "name": "Glaciere",
+        "slug": "glaciere",
+        "lat": "48.8303232",
+        "lon": "2.3521508"
+      },
+      {
+        "name": "Saint-Jacques",
+        "slug": "saint+jacques",
+        "lat": "48.8331321",
+        "lon": "2.3363033"
+      },
+      {
+        "name": "Denfert-Rochereau",
+        "slug": "denfert+rochereau",
+        "lat": "48.842365",
+        "lon": "2.3209085"
+      },
+      {
+        "name": "Raspail",
+        "slug": "raspail",
+        "lat": "48.8425406",
+        "lon": "2.320891"
+      },
+      {
+        "name": "Edgar-Quinet",
+        "slug": "edgar+quinet",
+        "lat": "48.8425406",
+        "lon": "2.320891"
+      },
+      {
+        "name": "Montparnasse-Bienvenue",
+        "slug": "montparnasse+bienvenue",
+        "lat": "48.8437765",
+        "lon": "2.3241971"
+      },
+      {
+        "name": "Pasteur",
+        "slug": "pasteur",
+        "lat": "48.8430018",
+        "lon": "2.3125117"
+      },
+      {
+        "name": "Sevres-Lecourbe",
+        "slug": "sevres+lecourbe",
+        "lat": "48.8433582",
+        "lon": "2.3204575"
+      },
+      {
+        "name": "Cambronne",
+        "slug": "cambronne",
+        "lat": "48.8415508",
+        "lon": "2.3136716"
+      },
+      {
+        "name": "La Motte-Picquet-Grenelle",
+        "slug": "la+motte+picquet+grenelle",
+        "lat": "48.8576538",
+        "lon": "2.2856493"
+      },
+      {
+        "name": "Dupleix",
+        "slug": "dupleix",
+        "lat": "48.8576352",
+        "lon": "2.285619"
+      },
+      {
+        "name": "Bir-Hakeim (Grenelle)",
+        "slug": "bir+hakeim+(grenelle)",
+        "lat": "48.8707496",
+        "lon": "2.2928022"
+      },
+      {
+        "name": "Passy",
+        "slug": "passy",
+        "lat": "48.8576538",
+        "lon": "2.2856493"
+      },
+      {
+        "name": "Trocadero",
+        "slug": "trocadero",
+        "lat": "48.8707496",
+        "lon": "2.2928022"
+      },
+      {
+        "name": "Boissiere",
+        "slug": "boissiere",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Kleber",
+        "slug": "kleber",
+        "lat": "48.8736741",
+        "lon": "2.2935738"
+      },
+      {
+        "name": "Charles de Gaulle-Etoile",
+        "slug": "charles+de+gaulle+etoile",
+        "lat": "48.8733997",
+        "lon": "2.2966401"
+      }
+    ]
+  },
+  "7": {
+    "name": "Métro 7",
+    "stations": [
+      {
+        "name": "La Courneuve-8-Mai-1945",
+        "slug": "la+courneuve+8+mai+1945",
+        "lat": "48.8304858",
+        "lon": "2.3526836"
+      },
+      {
+        "name": "Fort d'Aubervilliers",
+        "slug": "fort+d'aubervilliers",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Aubervilliers Pantin (4 Chemins)",
+        "slug": "aubervilliers+pantin+(4+chemins)",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Porte de la Villette",
+        "slug": "porte+de+la+villette",
+        "lat": "48.8805868",
+        "lon": "2.3702496"
+      },
+      {
+        "name": "Corentin-Cariou",
+        "slug": "corentin+cariou",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "Crimee",
+        "slug": "crimee",
+        "lat": "48.881738",
+        "lon": "2.3702504"
+      },
+      {
+        "name": "Riquet",
+        "slug": "riquet",
+        "lat": "48.881738",
+        "lon": "2.3702504"
+      },
+      {
+        "name": "Stalingrad",
+        "slug": "stalingrad",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "Louis Blanc",
+        "slug": "louis+blanc",
+        "lat": "48.8794161",
+        "lon": "2.3702445"
+      },
+      {
+        "name": "Chateau Landon",
+        "slug": "chateau+landon",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Gare de l'Est (Verdun)",
+        "slug": "gare+de+l'est+(verdun)",
+        "lat": "48.8767083",
+        "lon": "2.3556513"
+      },
+      {
+        "name": "Poissonniere",
+        "slug": "poissonniere",
+        "lat": "48.8774963",
+        "lon": "2.3553812"
+      },
+      {
+        "name": "Cadet",
+        "slug": "cadet",
+        "lat": "48.8773365",
+        "lon": "2.3495898"
+      },
+      {
+        "name": "Le Peletier",
+        "slug": "le+peletier",
+        "lat": "48.8732058",
+        "lon": "2.3337003"
+      },
+      {
+        "name": "Chaussee d'Antin (La Fayette)",
+        "slug": "chaussee+d'antin+(la+fayette)",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Opera",
+        "slug": "opera",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Pyramides",
+        "slug": "pyramides",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Palais-Royal (Musee du Louvre)",
+        "slug": "palais+royal+(musee+du+louvre)",
+        "lat": "48.8655192",
+        "lon": "2.3345323"
+      },
+      {
+        "name": "Pont Neuf",
+        "slug": "pont+neuf",
+        "lat": "48.857757",
+        "lon": "2.3449507"
+      },
+      {
+        "name": "Chatelet",
+        "slug": "chatelet",
+        "lat": "48.8587841",
+        "lon": "2.3406833"
+      },
+      {
+        "name": "Pont Marie (Cite des Arts)",
+        "slug": "pont+marie+(cite+des+arts)",
+        "lat": "48.857757",
+        "lon": "2.3449507"
+      },
+      {
+        "name": "Sully-Morland",
+        "slug": "sully+morland",
+        "lat": "48.8537872",
+        "lon": "2.3565905"
+      },
+      {
+        "name": "Jussieu",
+        "slug": "jussieu",
+        "lat": "48.8537872",
+        "lon": "2.3565905"
+      },
+      {
+        "name": "Place Monge (Jardin des Plantes)",
+        "slug": "place+monge+(jardin+des+plantes)",
+        "lat": "48.8537872",
+        "lon": "2.3565905"
+      },
+      {
+        "name": "Censier-Daubenton",
+        "slug": "censier+daubenton",
+        "lat": "48.838796",
+        "lon": "2.3612057"
+      },
+      {
+        "name": "Les Gobelins",
+        "slug": "les+gobelins",
+        "lat": "48.8303232",
+        "lon": "2.3521508"
+      },
+      {
+        "name": "Place d'Italie",
+        "slug": "place+d'italie",
+        "lat": "48.8319145",
+        "lon": "2.3590224"
+      },
+      {
+        "name": "Tolbiac",
+        "slug": "tolbiac",
+        "lat": "48.8319145",
+        "lon": "2.3590224"
+      },
+      {
+        "name": "Maison Blanche",
+        "slug": "maison+blanche",
+        "lat": "48.8304858",
+        "lon": "2.3526836"
+      },
+      {
+        "name": "Porte d'Italie",
+        "slug": "porte+d'italie",
+        "lat": "48.8023762",
+        "lon": "2.3646341"
+      },
+      {
+        "name": "Porte de Choisy",
+        "slug": "porte+de+choisy",
+        "lat": "48.8023762",
+        "lon": "2.3646341"
+      },
+      {
+        "name": "Porte d'Ivry",
+        "slug": "porte+d'ivry",
+        "lat": "48.8200805",
+        "lon": "2.3723156"
+      },
+      {
+        "name": "Pierre et Marie Curie",
+        "slug": "pierre+et+marie+curie",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Mairie d'Ivry",
+        "slug": "mairie+d'ivry",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Le Kremlin-Bicetre",
+        "slug": "le+kremlin+bicetre",
+        "lat": "48.8023762",
+        "lon": "2.3646341"
+      },
+      {
+        "name": "Villejuif-Leo Lagrange",
+        "slug": "villejuif+leo+lagrange",
+        "lat": "48.8023762",
+        "lon": "2.3646341"
+      },
+      {
+        "name": "Villejuif-Paul Vaillant Couturier (Hopital Paul Brousse)",
+        "slug": "villejuif+paul+vaillant+couturier+(hopital+paul+brousse)",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Villejuif-Louis Aragon",
+        "slug": "villejuif+louis+aragon",
+        "lat": false,
+        "lon": false
+      }
+    ]
+  },
+  "8": {
+    "name": "Métro 8",
+    "stations": [
+      {
+        "name": "Balard",
+        "slug": "balard",
+        "lat": "48.8461002",
+        "lon": "2.2759508"
+      },
+      {
+        "name": "Lourmel",
+        "slug": "lourmel",
+        "lat": "48.8461462",
+        "lon": "2.2780662"
+      },
+      {
+        "name": "Boucicaut",
+        "slug": "boucicaut",
+        "lat": "48.8461462",
+        "lon": "2.2780662"
+      },
+      {
+        "name": "Felix Faure",
+        "slug": "felix+faure",
+        "lat": "48.8576352",
+        "lon": "2.285619"
+      },
+      {
+        "name": "Commerce",
+        "slug": "commerce",
+        "lat": "48.8430018",
+        "lon": "2.3125117"
+      },
+      {
+        "name": "La Motte-Picquet-Grenelle",
+        "slug": "la+motte+picquet+grenelle",
+        "lat": "48.8576538",
+        "lon": "2.2856493"
+      },
+      {
+        "name": "Ecole Militaire",
+        "slug": "ecole+militaire",
+        "lat": "48.8447996",
+        "lon": "2.3213605"
+      },
+      {
+        "name": "La Tour-Maubourg",
+        "slug": "la+tour+maubourg",
+        "lat": "48.8630949",
+        "lon": "2.3202615"
+      },
+      {
+        "name": "Invalides",
+        "slug": "invalides",
+        "lat": "48.8603728",
+        "lon": "2.3144633"
+      },
+      {
+        "name": "Concorde",
+        "slug": "concorde",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Madeleine",
+        "slug": "madeleine",
+        "lat": "48.8751803",
+        "lon": "2.3241609"
+      },
+      {
+        "name": "Opera",
+        "slug": "opera",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Richelieu-Drouot",
+        "slug": "richelieu+drouot",
+        "lat": "48.8670667",
+        "lon": "2.3338973"
+      },
+      {
+        "name": "Grands Boulevards",
+        "slug": "grands+boulevards",
+        "lat": "48.8759565",
+        "lon": "2.3442991"
+      },
+      {
+        "name": "Bonne Nouvelle",
+        "slug": "bonne+nouvelle",
+        "lat": "48.8711105",
+        "lon": "2.3553025"
+      },
+      {
+        "name": "Strasbourg-Saint-Denis",
+        "slug": "strasbourg+saint+denis",
+        "lat": "48.8764702",
+        "lon": "2.3560557"
+      },
+      {
+        "name": "Republique",
+        "slug": "republique",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Filles du Calvaire",
+        "slug": "filles+du+calvaire",
+        "lat": "48.8671222",
+        "lon": "2.36488"
+      },
+      {
+        "name": "Saint-Sebastien-Froissart",
+        "slug": "saint+sebastien+froissart",
+        "lat": "48.8559842",
+        "lon": "2.357835"
+      },
+      {
+        "name": "Chemin Vert",
+        "slug": "chemin+vert",
+        "lat": "48.8467262",
+        "lon": "2.3657195"
+      },
+      {
+        "name": "Bastille",
+        "slug": "bastille",
+        "lat": "48.8467262",
+        "lon": "2.3657195"
+      },
+      {
+        "name": "Ledru-Rollin",
+        "slug": "ledru+rollin",
+        "lat": "48.8466834",
+        "lon": "2.3656701"
+      },
+      {
+        "name": "Faidherbe-Chaligny",
+        "slug": "faidherbe+chaligny",
+        "lat": "48.8475444",
+        "lon": "2.3885543"
+      },
+      {
+        "name": "Reuilly-Diderot",
+        "slug": "reuilly+diderot",
+        "lat": "48.84621",
+        "lon": "2.3769156"
+      },
+      {
+        "name": "Montgallet",
+        "slug": "montgallet",
+        "lat": "48.848012",
+        "lon": "2.3964702"
+      },
+      {
+        "name": "Daumesnil (Felix Eboue)",
+        "slug": "daumesnil+(felix+eboue)",
+        "lat": "48.8454672",
+        "lon": "2.3955563"
+      },
+      {
+        "name": "Michel Bizot",
+        "slug": "michel+bizot",
+        "lat": "48.8454672",
+        "lon": "2.3955563"
+      },
+      {
+        "name": "Porte Doree",
+        "slug": "porte+doree",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Porte de Charenton",
+        "slug": "porte+de+charenton",
+        "lat": "48.8450751",
+        "lon": "2.40108"
+      },
+      {
+        "name": "Liberte",
+        "slug": "liberte",
+        "lat": "48.8390472",
+        "lon": "2.3896692"
+      },
+      {
+        "name": "Charenton-Ecoles",
+        "slug": "charenton+ecoles",
+        "lat": "48.8163791",
+        "lon": "2.4190243"
+      },
+      {
+        "name": "Ecole Veterinaire de Maisons-Alfort",
+        "slug": "ecole+veterinaire+de+maisons+alfort",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Maisons-Alfort-Stade",
+        "slug": "maisons+alfort+stade",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Maisons-Alfort-Les Juilliottes",
+        "slug": "maisons+alfort+les+juilliottes",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Creteil-L'Echat (Hopital Henri Mondor)",
+        "slug": "creteil+l'echat+(hopital+henri+mondor)",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Creteil-Universite",
+        "slug": "creteil+universite",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Creteil-Prefecture (Hotel de Ville)",
+        "slug": "creteil+prefecture+(hotel+de+ville)",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Pointe du Lac",
+        "slug": "pointe+du+lac",
+        "lat": false,
+        "lon": false
+      }
+    ]
+  },
+  "9": {
+    "name": "Métro 9",
+    "stations": [
+      {
+        "name": "Pont de Sevres",
+        "slug": "pont+de+sevres",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Billancourt",
+        "slug": "billancourt",
+        "lat": "48.8479901",
+        "lon": "2.2630844"
+      },
+      {
+        "name": "Marcel Sembat",
+        "slug": "marcel+sembat",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Porte de Saint-Cloud",
+        "slug": "porte+de+saint+cloud",
+        "lat": "48.8357232",
+        "lon": "2.2782017"
+      },
+      {
+        "name": "Exelmans",
+        "slug": "exelmans",
+        "lat": "48.8461462",
+        "lon": "2.2780662"
+      },
+      {
+        "name": "Michel-Ange-Molitor",
+        "slug": "michel+ange+molitor",
+        "lat": "48.8461002",
+        "lon": "2.2759508"
+      },
+      {
+        "name": "Michel-Ange-Auteuil",
+        "slug": "michel+ange+auteuil",
+        "lat": "48.8461002",
+        "lon": "2.2759508"
+      },
+      {
+        "name": "Jasmin",
+        "slug": "jasmin",
+        "lat": "14.5684204",
+        "lon": "120.9952845"
+      },
+      {
+        "name": "Ranelagh",
+        "slug": "ranelagh",
+        "lat": "48.8461462",
+        "lon": "2.2780662"
+      },
+      {
+        "name": "La Muette",
+        "slug": "la+muette",
+        "lat": "48.8577638",
+        "lon": "2.28552"
+      },
+      {
+        "name": "Rue de la Pompe (Avenue Georges Mandel)",
+        "slug": "rue+de+la+pompe+(avenue+georges+mandel)",
+        "lat": "48.8766407",
+        "lon": "2.2859858"
+      },
+      {
+        "name": "Trocadero",
+        "slug": "trocadero",
+        "lat": "48.8707496",
+        "lon": "2.2928022"
+      },
+      {
+        "name": "Iena",
+        "slug": "iena",
+        "lat": "48.8719258",
+        "lon": "2.2936869"
+      },
+      {
+        "name": "Alma-Marceau",
+        "slug": "alma+marceau",
+        "lat": "48.8733997",
+        "lon": "2.2966401"
+      },
+      {
+        "name": "Franklin-Roosevelt",
+        "slug": "franklin+roosevelt",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Saint-Philippe du Roule",
+        "slug": "saint+philippe+du+roule",
+        "lat": "48.8603728",
+        "lon": "2.3144633"
+      },
+      {
+        "name": "Miromesnil",
+        "slug": "miromesnil",
+        "lat": "48.8665916",
+        "lon": "2.3176863"
+      },
+      {
+        "name": "Saint-Augustin",
+        "slug": "saint+augustin",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Havre-Caumartin",
+        "slug": "havre+caumartin",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Chaussee d'Antin (La Fayette)",
+        "slug": "chaussee+d'antin+(la+fayette)",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Richelieu-Drouot",
+        "slug": "richelieu+drouot",
+        "lat": "48.8670667",
+        "lon": "2.3338973"
+      },
+      {
+        "name": "Grands Boulevards",
+        "slug": "grands+boulevards",
+        "lat": "48.8759565",
+        "lon": "2.3442991"
+      },
+      {
+        "name": "Bonne Nouvelle",
+        "slug": "bonne+nouvelle",
+        "lat": "48.8711105",
+        "lon": "2.3553025"
+      },
+      {
+        "name": "Strasbourg-Saint-Denis",
+        "slug": "strasbourg+saint+denis",
+        "lat": "48.8764702",
+        "lon": "2.3560557"
+      },
+      {
+        "name": "Republique",
+        "slug": "republique",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Oberkampf",
+        "slug": "oberkampf",
+        "lat": "48.8672214",
+        "lon": "2.3638561"
+      },
+      {
+        "name": "Saint-Ambroise",
+        "slug": "saint+ambroise",
+        "lat": "48.8672214",
+        "lon": "2.3638561"
+      },
+      {
+        "name": "Voltaire (Leon Blum)",
+        "slug": "voltaire+(leon+blum)",
+        "lat": "48.8462373",
+        "lon": "2.3769092"
+      },
+      {
+        "name": "Charonne",
+        "slug": "charonne",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Rue des Boulets",
+        "slug": "rue+des+boulets",
+        "lat": "48.8495683",
+        "lon": "2.3990234"
+      },
+      {
+        "name": "Nation",
+        "slug": "nation",
+        "lat": "48.848012",
+        "lon": "2.3964702"
+      },
+      {
+        "name": "Buzenval",
+        "slug": "buzenval",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Maraichers",
+        "slug": "maraichers",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Porte de Montreuil",
+        "slug": "porte+de+montreuil",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Robespierre",
+        "slug": "robespierre",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Croix-de-Chavaux (Jacques Duclos)",
+        "slug": "croix+de+chavaux+(jacques+duclos)",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Mairie de Montreuil",
+        "slug": "mairie+de+montreuil",
+        "lat": false,
+        "lon": false
+      }
+    ]
+  },
+  "10": {
+    "name": "Métro 10",
+    "stations": [
+      {
+        "name": "Boulogne Pont de Saint-Cloud",
+        "slug": "boulogne+pont+de+saint+cloud",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Boulogne-Jean-Jaures",
+        "slug": "boulogne+jean+jaures",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Porte d'Auteuil",
+        "slug": "porte+d'auteuil",
+        "lat": "48.8700619",
+        "lon": "2.2836011"
+      },
+      {
+        "name": "Michel-Ange-Molitor",
+        "slug": "michel+ange+molitor",
+        "lat": "48.8461002",
+        "lon": "2.2759508"
+      },
+      {
+        "name": "Chardon-Lagache",
+        "slug": "chardon+lagache",
+        "lat": "48.8461002",
+        "lon": "2.2759508"
+      },
+      {
+        "name": "Mirabeau",
+        "slug": "mirabeau",
+        "lat": "48.8461002",
+        "lon": "2.2759508"
+      },
+      {
+        "name": "Javel-Andre-Citroen",
+        "slug": "javel+andre+citroen",
+        "lat": "48.835745",
+        "lon": "2.2781052"
+      },
+      {
+        "name": "Charles Michels",
+        "slug": "charles+michels",
+        "lat": "48.8461462",
+        "lon": "2.2780662"
+      },
+      {
+        "name": "Avenue Emile-Zola",
+        "slug": "avenue+emile+zola",
+        "lat": "48.8461462",
+        "lon": "2.2780662"
+      },
+      {
+        "name": "La Motte-Picquet-Grenelle",
+        "slug": "la+motte+picquet+grenelle",
+        "lat": "48.8576538",
+        "lon": "2.2856493"
+      },
+      {
+        "name": "Segur",
+        "slug": "segur",
+        "lat": "48.8435305",
+        "lon": "2.3204445"
+      },
+      {
+        "name": "Duroc",
+        "slug": "duroc",
+        "lat": "48.8447996",
+        "lon": "2.3213605"
+      },
+      {
+        "name": "Vaneau",
+        "slug": "vaneau",
+        "lat": "48.8435305",
+        "lon": "2.3204445"
+      },
+      {
+        "name": "Sevres-Babylone",
+        "slug": "sevres+babylone",
+        "lat": "48.8433248",
+        "lon": "2.3205753"
+      },
+      {
+        "name": "Mabillon",
+        "slug": "mabillon",
+        "lat": "48.857757",
+        "lon": "2.3449507"
+      },
+      {
+        "name": "Odeon",
+        "slug": "odeon",
+        "lat": "48.8587841",
+        "lon": "2.3406833"
+      },
+      {
+        "name": "Cluny-La Sorbonne",
+        "slug": "cluny+la+sorbonne",
+        "lat": "48.8623522",
+        "lon": "2.3386311"
+      },
+      {
+        "name": "Maubert-Mutualite",
+        "slug": "maubert+mutualite",
+        "lat": "48.8588199",
+        "lon": "2.3406944"
+      },
+      {
+        "name": "Cardinal-Lemoine",
+        "slug": "cardinal+lemoine",
+        "lat": "48.8537872",
+        "lon": "2.3565905"
+      },
+      {
+        "name": "Jussieu",
+        "slug": "jussieu",
+        "lat": "48.8537872",
+        "lon": "2.3565905"
+      },
+      {
+        "name": "Gare d'Austerlitz",
+        "slug": "gare+d'austerlitz",
+        "lat": "48.8467262",
+        "lon": "2.3657195"
+      },
+      {
+        "name": "Eglise d'Auteuil",
+        "slug": "eglise+d'auteuil",
+        "lat": "48.8461002",
+        "lon": "2.2759508"
+      },
+      {
+        "name": "Michel-Ange-Auteuil",
+        "slug": "michel+ange+auteuil",
+        "lat": "48.8461002",
+        "lon": "2.2759508"
+      }
+    ]
+  },
+  "11": {
+    "name": "Métro 11",
+    "stations": [
+      {
+        "name": "Mairie des Lilas",
+        "slug": "mairie+des+lilas",
+        "lat": "48.8649772",
+        "lon": "2.4141436"
+      },
+      {
+        "name": "Porte des Lilas",
+        "slug": "porte+des+lilas",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Telegraphe",
+        "slug": "telegraphe",
+        "lat": "48.8649915",
+        "lon": "2.414145"
+      },
+      {
+        "name": "Place des Fetes",
+        "slug": "place+des+fetes",
+        "lat": "48.8563062",
+        "lon": "2.3944977"
+      },
+      {
+        "name": "Jourdain",
+        "slug": "jourdain",
+        "lat": "48.8909613",
+        "lon": "2.4013802"
+      },
+      {
+        "name": "Pyrenees",
+        "slug": "pyrenees",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "Belleville",
+        "slug": "belleville",
+        "lat": "48.8689436",
+        "lon": "2.3802717"
+      },
+      {
+        "name": "Goncourt (Hopital Saint-Louis)",
+        "slug": "goncourt+(hopital+saint+louis)",
+        "lat": "48.881738",
+        "lon": "2.3702504"
+      },
+      {
+        "name": "Republique",
+        "slug": "republique",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Arts-et-Metiers",
+        "slug": "arts+et+metiers",
+        "lat": "48.8655497",
+        "lon": "2.3565737"
+      },
+      {
+        "name": "Rambuteau",
+        "slug": "rambuteau",
+        "lat": "48.8537872",
+        "lon": "2.3565905"
+      },
+      {
+        "name": "Hotel de Ville",
+        "slug": "hotel+de+ville",
+        "lat": "48.8537872",
+        "lon": "2.3565905"
+      },
+      {
+        "name": "Chatelet",
+        "slug": "chatelet",
+        "lat": "48.8587841",
+        "lon": "2.3406833"
+      }
+    ]
+  },
+  "12": {
+    "name": "Métro 12",
+    "stations": [
+      {
+        "name": "Mairie d'Issy",
+        "slug": "mairie+d'issy",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Corentin-Celton",
+        "slug": "corentin+celton",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Porte de Versailles",
+        "slug": "porte+de+versailles",
+        "lat": "48.8357232",
+        "lon": "2.2782017"
+      },
+      {
+        "name": "Convention",
+        "slug": "convention",
+        "lat": "48.8415508",
+        "lon": "2.3136716"
+      },
+      {
+        "name": "Vaugirard (Adolphe Cherioux)",
+        "slug": "vaugirard+(adolphe+cherioux)",
+        "lat": "48.8424336",
+        "lon": "2.3130124"
+      },
+      {
+        "name": "Volontaires",
+        "slug": "volontaires",
+        "lat": "48.8450019",
+        "lon": "2.3197614"
+      },
+      {
+        "name": "Pasteur",
+        "slug": "pasteur",
+        "lat": "48.8430018",
+        "lon": "2.3125117"
+      },
+      {
+        "name": "Falguiere",
+        "slug": "falguiere",
+        "lat": "48.842365",
+        "lon": "2.3209085"
+      },
+      {
+        "name": "Montparnasse-Bienvenue",
+        "slug": "montparnasse+bienvenue",
+        "lat": "48.8437765",
+        "lon": "2.3241971"
+      },
+      {
+        "name": "Notre-Dame des Champs",
+        "slug": "notre+dame+des+champs",
+        "lat": "48.8436186",
+        "lon": "2.3247573"
+      },
+      {
+        "name": "Rennes",
+        "slug": "rennes",
+        "lat": "48.8435305",
+        "lon": "2.3204445"
+      },
+      {
+        "name": "Sevres-Babylone",
+        "slug": "sevres+babylone",
+        "lat": "48.8433248",
+        "lon": "2.3205753"
+      },
+      {
+        "name": "Rue du Bac",
+        "slug": "rue+du+bac",
+        "lat": "48.8437765",
+        "lon": "2.3241971"
+      },
+      {
+        "name": "Solferino",
+        "slug": "solferino",
+        "lat": "48.8655192",
+        "lon": "2.3345323"
+      },
+      {
+        "name": "Assemblee Nationale",
+        "slug": "assemblee+nationale",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Concorde",
+        "slug": "concorde",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Madeleine",
+        "slug": "madeleine",
+        "lat": "48.8751803",
+        "lon": "2.3241609"
+      },
+      {
+        "name": "Saint-Lazare",
+        "slug": "saint+lazare",
+        "lat": "48.8852572",
+        "lon": "2.3265212"
+      },
+      {
+        "name": "Trinite-d'Estienne d'Orves",
+        "slug": "trinite+d'estienne+d'orves",
+        "lat": "48.8704386",
+        "lon": "2.3312817"
+      },
+      {
+        "name": "Notre-Dame de Lorette",
+        "slug": "notre+dame+de+lorette",
+        "lat": "48.8777368",
+        "lon": "2.3382106"
+      },
+      {
+        "name": "Saint-Georges",
+        "slug": "saint+georges",
+        "lat": "48.8777368",
+        "lon": "2.3382106"
+      },
+      {
+        "name": "Pigalle",
+        "slug": "pigalle",
+        "lat": "48.8822978",
+        "lon": "2.3371797"
+      },
+      {
+        "name": "Abbesses",
+        "slug": "abbesses",
+        "lat": "48.8820884",
+        "lon": "2.3403647"
+      },
+      {
+        "name": "Lamarck-Caulaincourt",
+        "slug": "lamarck+caulaincourt",
+        "lat": "48.8831383",
+        "lon": "2.3372918"
+      },
+      {
+        "name": "Jules Joffrin",
+        "slug": "jules+joffrin",
+        "lat": "48.8891263",
+        "lon": "2.3497275"
+      },
+      {
+        "name": "Marcadet-Poissonniers",
+        "slug": "marcadet+poissonniers",
+        "lat": "48.8925257",
+        "lon": "2.3442797"
+      },
+      {
+        "name": "Marx-Dormoy",
+        "slug": "marx+dormoy",
+        "lat": "48.8825259",
+        "lon": "2.3588587"
+      },
+      {
+        "name": "Porte de la Chapelle",
+        "slug": "porte+de+la+chapelle",
+        "lat": "48.8808566",
+        "lon": "2.357872"
+      },
+      {
+        "name": "Front Populaire",
+        "slug": "front+populaire",
+        "lat": false,
+        "lon": false
+      }
+    ]
+  },
+  "13": {
+    "name": "Métro 13",
+    "stations": [
+      {
+        "name": "Chatillon Montrouge",
+        "slug": "chatillon+montrouge",
+        "lat": "48.8282269",
+        "lon": "2.3271975"
+      },
+      {
+        "name": "Malakoff-Rue Etienne Dolet",
+        "slug": "malakoff+rue+etienne+dolet",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Malakoff-Plateau de Vanves",
+        "slug": "malakoff+plateau+de+vanves",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Porte de Vanves",
+        "slug": "porte+de+vanves",
+        "lat": "48.8437594",
+        "lon": "2.2930421"
+      },
+      {
+        "name": "Plaisance",
+        "slug": "plaisance",
+        "lat": "48.8331321",
+        "lon": "2.3363033"
+      },
+      {
+        "name": "Pernety",
+        "slug": "pernety",
+        "lat": "48.8425406",
+        "lon": "2.320891"
+      },
+      {
+        "name": "Gaite",
+        "slug": "gaite",
+        "lat": "48.8435305",
+        "lon": "2.3204445"
+      },
+      {
+        "name": "Montparnasse-Bienvenue",
+        "slug": "montparnasse+bienvenue",
+        "lat": "48.8437765",
+        "lon": "2.3241971"
+      },
+      {
+        "name": "Duroc",
+        "slug": "duroc",
+        "lat": "48.8447996",
+        "lon": "2.3213605"
+      },
+      {
+        "name": "Saint-Francois-Xavier",
+        "slug": "saint+francois+xavier",
+        "lat": "48.8603728",
+        "lon": "2.3144633"
+      },
+      {
+        "name": "Varenne",
+        "slug": "varenne",
+        "lat": "48.8555227",
+        "lon": "2.3256982"
+      },
+      {
+        "name": "Invalides",
+        "slug": "invalides",
+        "lat": "48.8603728",
+        "lon": "2.3144633"
+      },
+      {
+        "name": "Champs-Elysees-Clemenceau",
+        "slug": "champs+elysees+clemenceau",
+        "lat": "48.8630949",
+        "lon": "2.3202615"
+      },
+      {
+        "name": "Miromesnil",
+        "slug": "miromesnil",
+        "lat": "48.8665916",
+        "lon": "2.3176863"
+      },
+      {
+        "name": "Saint-Lazare",
+        "slug": "saint+lazare",
+        "lat": "48.8852572",
+        "lon": "2.3265212"
+      },
+      {
+        "name": "Liege",
+        "slug": "liege",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Place de Clichy",
+        "slug": "place+de+clichy",
+        "lat": "48.8852572",
+        "lon": "2.3265212"
+      },
+      {
+        "name": "La Fourche",
+        "slug": "la+fourche",
+        "lat": "48.8878982",
+        "lon": "2.3248167"
+      },
+      {
+        "name": "Guy-Moquet",
+        "slug": "guy+moquet",
+        "lat": "48.8906026",
+        "lon": "2.3201146"
+      },
+      {
+        "name": "Porte de Saint-Ouen",
+        "slug": "porte+de+saint+ouen",
+        "lat": "48.8978169",
+        "lon": "2.3290813"
+      },
+      {
+        "name": "Garibaldi",
+        "slug": "garibaldi",
+        "lat": "48.887309",
+        "lon": "2.3256276"
+      },
+      {
+        "name": "Mairie de Saint-Ouen",
+        "slug": "mairie+de+saint+ouen",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Carrefour-Pleyel",
+        "slug": "carrefour+pleyel",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Saint-Denis - Porte de Paris",
+        "slug": "saint+denis+++porte+de+paris",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Basilique de Saint-Denis",
+        "slug": "basilique+de+saint+denis",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Saint-Denis-Universite",
+        "slug": "saint+denis+universite",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Brochant",
+        "slug": "brochant",
+        "lat": "48.8906026",
+        "lon": "2.3201146"
+      },
+      {
+        "name": "Porte de Clichy",
+        "slug": "porte+de+clichy",
+        "lat": "48.8961575",
+        "lon": "2.3119262"
+      },
+      {
+        "name": "Mairie de Clichy",
+        "slug": "mairie+de+clichy",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Gabriel-Peri",
+        "slug": "gabriel+peri",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Les Agnettes",
+        "slug": "les+agnettes",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Asnieres-Gennevilliers Les Courtilles",
+        "slug": "asnieres+gennevilliers+les+courtilles",
+        "lat": false,
+        "lon": false
+      }
+    ]
+  },
+  "14": {
+    "name": "Métro 14",
+    "stations": [
+      {
+        "name": "Saint-Lazare",
+        "slug": "saint+lazare",
+        "lat": "48.8852572",
+        "lon": "2.3265212"
+      },
+      {
+        "name": "Madeleine",
+        "slug": "madeleine",
+        "lat": "48.8751803",
+        "lon": "2.3241609"
+      },
+      {
+        "name": "Pyramides",
+        "slug": "pyramides",
+        "lat": "48.86705",
+        "lon": "2.333834"
+      },
+      {
+        "name": "Chatelet",
+        "slug": "chatelet",
+        "lat": "48.8587841",
+        "lon": "2.3406833"
+      },
+      {
+        "name": "Gare de Lyon",
+        "slug": "gare+de+lyon",
+        "lat": "48.8466834",
+        "lon": "2.3656701"
+      },
+      {
+        "name": "Bercy",
+        "slug": "bercy",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Cour Saint-Emilion",
+        "slug": "cour+saint+emilion",
+        "lat": "48.8393592",
+        "lon": "2.377301"
+      },
+      {
+        "name": "Bibliotheque-Francois Mitterrand",
+        "slug": "bibliotheque+francois+mitterrand",
+        "lat": "48.8351096",
+        "lon": "2.3686207"
+      },
+      {
+        "name": "Olympiades",
+        "slug": "olympiades",
+        "lat": "48.8319145",
+        "lon": "2.3590224"
+      }
+    ]
+  },
+  "3b": {
+    "name": "Métro 3b",
+    "stations": [
+      {
+        "name": "Porte des Lilas",
+        "slug": "porte+des+lilas",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Saint-Fargeau",
+        "slug": "saint+fargeau",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Pelleport",
+        "slug": "pelleport",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      },
+      {
+        "name": "Gambetta",
+        "slug": "gambetta",
+        "lat": "48.8529523",
+        "lon": "2.4075653"
+      }
+    ]
+  },
+  "7b": {
+    "name": "Métro 7b",
+    "stations": [
+      {
+        "name": "Pre-Saint-Gervais",
+        "slug": "pre+saint+gervais",
+        "lat": "48.8697857",
+        "lon": "2.4027739"
+      },
+      {
+        "name": "Danube",
+        "slug": "danube",
+        "lat": "48.8909613",
+        "lon": "2.4013802"
+      },
+      {
+        "name": "Botzaris",
+        "slug": "botzaris",
+        "lat": "48.8638707",
+        "lon": "2.3914076"
+      },
+      {
+        "name": "Buttes-Chaumont",
+        "slug": "buttes+chaumont",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "Bolivar",
+        "slug": "bolivar",
+        "lat": "48.8392502",
+        "lon": "2.3894915"
+      },
+      {
+        "name": "Jaures",
+        "slug": "jaures",
+        "lat": "48.8841403",
+        "lon": "2.3680762"
+      },
+      {
+        "name": "Louis Blanc",
+        "slug": "louis+blanc",
+        "lat": "48.8794161",
+        "lon": "2.3702445"
+      },
+      {
+        "name": "Place des Fetes",
+        "slug": "place+des+fetes",
+        "lat": "48.8563062",
+        "lon": "2.3944977"
+      }
+    ]
+  },
+  "Fun": {
+    "name": "Métro Fun",
+    "stations": [
+      {
+        "name": "Funiculaire Gare basse",
+        "slug": "funiculaire+gare+basse",
+        "lat": "48.8816428",
+        "lon": "2.3478709"
+      },
+      {
+        "name": "Funiculaire Gare haute",
+        "slug": "funiculaire+gare+haute",
+        "lat": "48.8891263",
+        "lon": "2.3497275"
+      }
+    ]
+  },
+  "Orv": {
+    "name": "Métro Orv",
+    "stations": [
+      {
+        "name": "Antony",
+        "slug": "antony",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Orly 1-2-3",
+        "slug": "orly+1+2+3",
+        "lat": false,
+        "lon": false
+      },
+      {
+        "name": "Orly 4",
+        "slug": "orly+4",
+        "lat": false,
+        "lon": false
+      }
+    ]
+  }
+}
